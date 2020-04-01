@@ -22,6 +22,9 @@ Karol Gregor, George Papamakarios, Frederic Besse, Lars Buesing, Theophane Weber
 * [Disentangling the independently controllable factors of variation by interacting with the world](https://arxiv.org/abs/1802.09484),  
 Valentin Thomas, Emmanuel Bengio, William Fedus, Jules Pondard, Philippe Beaudoin, Hugo Larochelle, Joelle Pineau, Doina Precup, Yoshua Bengio, 2018
 
+* [Variational Noise-Contrastive Estimation](https://arxiv.org/abs/1810.08010),  
+Benjamin Rhodes, Michael Gutmann, 2018
+
 ## 2019
 
 * [Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks](https://arxiv.org/abs/1905.12917) - [reviews](https://openreview.net/forum?id=rkeZIJBYvr), 
@@ -64,6 +67,12 @@ Amy Zhang, Zachary C. Lipton, Luis Pineda, Kamyar Azizzadenesheli, Anima Anandku
 * [Learning Generative Models across Incomparable Spaces](https://arxiv.org/abs/1905.05461),  
 Charlotte Bunne, David Alvarez-Melis, Andreas Krause, Stefanie Jegelka, 2019
 
+* [Variational Autoencoders and Nonlinear ICA: A Unifying Framework](https://arxiv.org/abs/1907.04809),  
+Ilyes Khemakhem, Diederik P. Kingma, Ricardo Pio Monti, Aapo Hyvärinen, 2019
+
+* [Robust contrastive learning and nonlinear ICA in the presence of outlier](https://arxiv.org/abs/1911.00265),  
+Hiroaki Sasaki, Takashi Takenouchi, Ricardo Monti, Aapo Hyvärinen, 2019
+
 ## 2020
 
 * [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539v1),  
@@ -95,6 +104,9 @@ Jad Rahme, Samy Jelassi, Joan Bruna, S. Matthew Weinberg, 2020
 * [Neural Communication Systems with Bandwidth-limited Channel](https://openreview.net/forum?id=rJgD2ySFDr),  
 Karen Ullrich, Fabio Viola, Danilo Jimenez Rezende, 2020
 
+* [ICE-BeeM: Identifiable Conditional Energy-Based Deep Models](https://arxiv.org/abs/2002.11537),  
+Ilyes Khemakhem, Ricardo Pio Monti, Diederik P. Kingma, Aapo Hyvärinen, 2020
+
 --------
 
 * [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
@@ -112,6 +124,10 @@ David J. C. MacKay, 2001
 * [Improving on Expectation Propagation](https://www.semanticscholar.org/paper/Improving-on-Expectation-Propagation-Opper-Paquet/8724cffb78f1515104709083ed054b68c67f39f6),  
 Manfred Opper, Ulrich Paquet, Ole Winther, 2008
 
+* [Noise-contrastive estimation: A new estimation principle for
+unnormalized statistical models](http://proceedings.mlr.press/v9/gutmann10a/gutmann10a.pdf),  
+Michael Gutmann, Aapo Hyvärinen, 2010
+
 * [Perturbative Corrections for Approximate Inference in Gaussian Latent Variable Models](https://arxiv.org/abs/1301.2724),  Manfred Opper, Ulrich Paquet, Ole Winther, 2013
 
 * [Expectation propagation as a way of life: A framework for Bayesian inference on partitioned data](https://arxiv.org/abs/1412.4869),  
@@ -122,4 +138,5 @@ Alex K. Susemihl, Ron Meir, Manfred Opper, 2014
 
 * [Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation](https://arxiv.org/abs/1602.05179),  
 Benjamin Scellier, Yoshua Bengio, 2016
+
 
