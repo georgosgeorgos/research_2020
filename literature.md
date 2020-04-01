@@ -65,8 +65,28 @@ Jonas Peters, Stefan Bauer, Niklas Pfister, 2020
 
 --------
 
+* [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
+John Hertz, Anders Krogh, Gudmundur Ingi Thorbergsson, 1989
+
+* [Dynamics of Training](https://www.semanticscholar.org/paper/Dynamics-of-Training-B%C3%B6s-Opper/e58c0b517abdc0229973ecbeaa3ea014d211e184),  
+Siegfried Bös, Manfred Opper, 1996
+
+* [The Effect of Correlated Input Data on the Dynamics of Learning](https://www.semanticscholar.org/paper/The-Effect-of-Correlated-Input-Data-on-the-Dynamics-Halkj%C3%A6r-Winther/647b06af496b147f31c57df75a240ebbf8c10760),  
+Søren Halkjær, Ole Winther, 1996  
+
+* [Local Minima, Symmetry-breaking, and Model Pruning in Variational Free Energy Minimization](https://www.semanticscholar.org/paper/Local-Minima%2C-Symmetry-breaking%2C-and-Model-Pruning-MacKay/f009659777096291db6db7508a9d47f8795a285b),  
+David J. C. MacKay, 2001
+
+* [Improving on Expectation Propagation](https://www.semanticscholar.org/paper/Improving-on-Expectation-Propagation-Opper-Paquet/8724cffb78f1515104709083ed054b68c67f39f6),  
+Manfred Opper, Ulrich Paquet, Ole Winther, 2008
+
+* [Perturbative Corrections for Approximate Inference in Gaussian Latent Variable Models](https://arxiv.org/abs/1301.2724),  Manfred Opper, Ulrich Paquet, Ole Winther, 2013
+
 * [Expectation propagation as a way of life: A framework for Bayesian inference on partitioned data](https://arxiv.org/abs/1412.4869),  
 Aki Vehtari, Andrew Gelman, Tuomas Sivula, Pasi Jylänki, Dustin Tran, Swupnil Sahai, Paul Blomstedt, John P. Cunningham, David Schiminovich, Christian Robert, 2014
+
+* [Optimal Population Codes for Control and Estimation](https://www.semanticscholar.org/paper/Optimal-Population-Codes-for-Control-and-Estimation-Susemihl-Meir/c7fa19012d1e014e2058a4446d39dba3273b256b),  
+Alex K. Susemihl, Ron Meir, Manfred Opper, 2014
 
 * [Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation](https://arxiv.org/abs/1602.05179),  
 Benjamin Scellier, Yoshua Bengio, 2016
