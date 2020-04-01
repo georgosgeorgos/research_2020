@@ -1,11 +1,17 @@
 # papers
 
 
+## 2016
+
 * [One-Shot Generalization in Deep Generative Models](https://arxiv.org/abs/1603.05106),  
 Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, Daan Wierstra, 2016
 
+## 2017
+
 * [Invariant Causal Prediction for Sequential Data](https://arxiv.org/abs/1706.08058),  
 Niklas Pfister, Peter Bühlmann, Jonas Peters, 2017
+
+## 2018
 
 * [Meta-Learning Probabilistic Inference For Prediction](https://arxiv.org/abs/1805.09921),  
 Jonathan Gordon, John Bronskill, Matthias Bauer, Sebastian Nowozin, Richard E. Turner, 2018
@@ -15,6 +21,8 @@ Karol Gregor, George Papamakarios, Frederic Besse, Lars Buesing, Theophane Weber
 
 * [Disentangling the independently controllable factors of variation by interacting with the world](https://arxiv.org/abs/1802.09484),  
 Valentin Thomas, Emmanuel Bengio, William Fedus, Jules Pondard, Philippe Beaudoin, Hugo Larochelle, Joelle Pineau, Doina Precup, Yoshua Bengio, 2018
+
+## 2019
 
 * [Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks](https://arxiv.org/abs/1905.12917) - [reviews](https://openreview.net/forum?id=rkeZIJBYvr), 
 Hae Beom Lee, Hayeon Lee, Donghyun Na, Saehoon Kim, Minseop Park, Eunho Yang, Sung Ju Hwang, 2019
@@ -49,6 +57,8 @@ Ethan Fetaya, Jörn-Henrik Jacobsen, Will Grathwohl, Richard Zemel, 2019
 * [ODIN: ODE-Informed Regression for Parameter and State Inference
 in Time-Continuous Dynamical Systems](https://arxiv.org/abs/1902.06278),  
 Philippe Wenk, Gabriele Abbati, Michael A Osborne, Bernhard Schölkopf, Andreas Krause, Stefan Bauer, 2019
+
+## 2020
 
 * [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539v1),  
 Yonglong Tian, Yue Wang, Dilip Krishnan, Joshua B. Tenenbaum, Phillip Isola, 2020
@@ -102,6 +112,5 @@ Auction Design](https://arxiv.org/abs/2003.01497),
 Jad Rahme, Samy Jelassi, Joan Bruna, S. Matthew Weinberg, 2020
 
 * [Neural Communication Systems with Bandwidth-limited Channel](https://openreview.net/forum?id=rJgD2ySFDr),  
-Karen Ullrich, Fabio Viola, Danilo Jimenez Rezende
+Karen Ullrich, Fabio Viola, Danilo Jimenez Rezende, 2020
 
-* []()
