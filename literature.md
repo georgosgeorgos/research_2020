@@ -61,6 +61,9 @@ Philippe Wenk, Gabriele Abbati, Michael A Osborne, Bernhard Schölkopf, Andreas 
 * [Learning Causal State Representations of Partially Observable Environments](https://arxiv.org/abs/1906.10437),  
 Amy Zhang, Zachary C. Lipton, Luis Pineda, Kamyar Azizzadenesheli, Anima Anandkumar, Laurent Itti, Joelle Pineau, Tommaso Furlanello, 2019
 
+* [Learning Generative Models across Incomparable Spaces](https://arxiv.org/abs/1905.05461),  
+Charlotte Bunne, David Alvarez-Melis, Andreas Krause, Stefanie Jegelka, 2019
+
 ## 2020
 
 * [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539v1),  
