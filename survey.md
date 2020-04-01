@@ -1,5 +1,8 @@
 # Relevant surveys
 
+* [A Unifying Review of Linear Gaussian Models](https://www.semanticscholar.org/paper/A-Unifying-Review-of-Linear-Gaussian-Models-Roweis-Ghahramani/30755a7614148f1acf5edca72385832410c7c33a),  
+Sam T. Roweis, Zoubin Ghahramani, 1999
+
 * [Learning in Implicit Generative Models](https://arxiv.org/abs/1610.03483),  
 Shakir Mohamed, Balaji Lakshminarayanan, 2016
 
