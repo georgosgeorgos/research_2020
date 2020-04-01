@@ -7,3 +7,5 @@
 * https://rlsst.sciencesconf.org/
 
 * https://cbmm.mit.edu/summer-school/2020
+
+* https://www.oxfordml.school/
