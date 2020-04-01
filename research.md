@@ -1,4 +1,4 @@
-# research_2020 - Meta-Learning
+# research - Meta-Learning
 
 * [One-Shot Generalization in Deep Generative Models](https://arxiv.org/abs/1603.05106),  
 Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, Daan Wierstra, 2016
