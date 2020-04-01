@@ -59,5 +59,9 @@ Elise van der Pol, Thomas Kipf, Frans A. Oliehoek, Max Welling, 2020
 * [Causal models for dynamical systems](https://arxiv.org/abs/2001.06208),  
 Jonas Peters, Stefan Bauer, Niklas Pfister, 2020
 
+* [A Permutation-Equivariant Neural Network Architecture For
+Auction Design](https://arxiv.org/abs/2003.01497),  
+Jad Rahme, Samy Jelassi, Joan Bruna, S. Matthew Weinberg, 2020
+
 
 
