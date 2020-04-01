@@ -58,6 +58,9 @@ Ethan Fetaya, Jörn-Henrik Jacobsen, Will Grathwohl, Richard Zemel, 2019
 in Time-Continuous Dynamical Systems](https://arxiv.org/abs/1902.06278),  
 Philippe Wenk, Gabriele Abbati, Michael A Osborne, Bernhard Schölkopf, Andreas Krause, Stefan Bauer, 2019
 
+* [Learning Causal State Representations of Partially Observable Environments](https://arxiv.org/abs/1906.10437),  
+Amy Zhang, Zachary C. Lipton, Luis Pineda, Kamyar Azizzadenesheli, Anima Anandkumar, Laurent Itti, Joelle Pineau, Tommaso Furlanello, 2019
+
 ## 2020
 
 * [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539v1),  
@@ -66,12 +69,28 @@ Yonglong Tian, Yue Wang, Dilip Krishnan, Joshua B. Tenenbaum, Phillip Isola, 202
 * [Interference and Generalization in Temporal Difference Learning](https://arxiv.org/abs/2003.06350),  
 Emmanuel Bengio, Joelle Pineau, Doina Precup, 2020
 
+* [On Contrastive Learning for Likelihood-free Inference](https://arxiv.org/abs/2002.03712),  
+Conor Durkan, Iain Murray, George Papamakarios, 2020
+
 * [Plannable Approximations to MDP Homomorphisms:
 Equivariance under Actions](https://arxiv.org/abs/2002.11963),  
 Elise van der Pol, Thomas Kipf, Frans A. Oliehoek, Max Welling, 2020
 
 * [Causal models for dynamical systems](https://arxiv.org/abs/2001.06208),  
 Jonas Peters, Stefan Bauer, Niklas Pfister, 2020
+
+* [Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913),  
+Johann Brehmer, Kyle Cranmer, 2020
+
+* [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361),  
+Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei, 2020
+
+* [A Permutation-Equivariant Neural Network Architecture For
+Auction Design](https://arxiv.org/abs/2003.01497),  
+Jad Rahme, Samy Jelassi, Joan Bruna, S. Matthew Weinberg, 2020
+
+* [Neural Communication Systems with Bandwidth-limited Channel](https://openreview.net/forum?id=rJgD2ySFDr),  
+Karen Ullrich, Fabio Viola, Danilo Jimenez Rezende, 2020
 
 --------
 
@@ -100,17 +119,4 @@ Alex K. Susemihl, Ron Meir, Manfred Opper, 2014
 
 * [Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation](https://arxiv.org/abs/1602.05179),  
 Benjamin Scellier, Yoshua Bengio, 2016
-
-* [Learning Causal State Representations of Partially Observable Environments](https://arxiv.org/abs/1906.10437),  
-Amy Zhang, Zachary C. Lipton, Luis Pineda, Kamyar Azizzadenesheli, Anima Anandkumar, Laurent Itti, Joelle Pineau, Tommaso Furlanello, 2019
-
-* [Scaling Laws for Neural Language Models](https://arxiv.org/abs/2001.08361),  
-Jared Kaplan, Sam McCandlish, Tom Henighan, Tom B. Brown, Benjamin Chess, Rewon Child, Scott Gray, Alec Radford, Jeffrey Wu, Dario Amodei, 2020
-
-* [A Permutation-Equivariant Neural Network Architecture For
-Auction Design](https://arxiv.org/abs/2003.01497),  
-Jad Rahme, Samy Jelassi, Joan Bruna, S. Matthew Weinberg, 2020
-
-* [Neural Communication Systems with Bandwidth-limited Channel](https://openreview.net/forum?id=rJgD2ySFDr),  
-Karen Ullrich, Fabio Viola, Danilo Jimenez Rezende, 2020
 
