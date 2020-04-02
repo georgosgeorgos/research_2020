@@ -11,6 +11,9 @@ Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, Daan Wierst
 * [Invariant Causal Prediction for Sequential Data](https://arxiv.org/abs/1706.08058),  
 Niklas Pfister, Peter Bühlmann, Jonas Peters, 2017
 
+* [Model Criticism in Latent Space](https://arxiv.org/abs/1711.04674),  
+Sohan Seth, Iain Murray, Christopher K. I. Williams, 2017
+
 ## 2018
 
 * [Meta-Learning Probabilistic Inference For Prediction](https://arxiv.org/abs/1805.09921),  
