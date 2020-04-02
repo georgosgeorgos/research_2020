@@ -7,3 +7,7 @@
 * [Information-Theoretic Probing with MDL](https://lena-voita.github.io/posts/mdl_probes.html)
 
 * [Neural Processes](https://kasparmartens.rbind.io/post/np/)
+
+# courses
+
+* [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
