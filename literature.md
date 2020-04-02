@@ -149,6 +149,9 @@ Benjamin Paassen, Alexander Schulz, 2020
 * [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
 John Hertz, Anders Krogh, Gudmundur Ingi Thorbergsson, 1989
 
+* [Transforming neural computations and representing time](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC26423/),  
+J. J. Hopfield, 1996
+
 * [Dynamics of Training](https://www.semanticscholar.org/paper/Dynamics-of-Training-B%C3%B6s-Opper/e58c0b517abdc0229973ecbeaa3ea014d211e184),  
 Siegfried Bös, Manfred Opper, 1996
 
