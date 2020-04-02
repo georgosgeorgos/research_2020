@@ -10,6 +10,8 @@
 
 * [Inference](https://www.inference.vc/)
 
+* [Hyperbolic DL](http://hyperbolicdeeplearning.com/)
+
 # courses
 
 * [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
