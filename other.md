@@ -8,6 +8,21 @@
 
 * [Neural Processes](https://kasparmartens.rbind.io/post/np/)
 
+* [Inference](https://www.inference.vc/)
+
 # courses
 
 * [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
+
+* [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+
+# books
+
+* [Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemology, and Applications](https://arxiv.org/abs/2001.10488),  
+Nassim Nicholas Taleb, 2020
+
+# slides
+
+* [Machine Learning and Cognitive
+Science](http://mlg.eng.cam.ac.uk/mlss09/mlss_slides/mlss09-tenenbaum-lecture1.pdf)
+
