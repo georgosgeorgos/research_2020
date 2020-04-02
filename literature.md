@@ -25,6 +25,9 @@ Valentin Thomas, Emmanuel Bengio, William Fedus, Jules Pondard, Philippe Beaudoi
 * [Variational Noise-Contrastive Estimation](https://arxiv.org/abs/1810.08010),  
 Benjamin Rhodes, Michael Gutmann, 2018
 
+* [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) - [reviews](https://openreview.net/forum?id=rJxgknCcK7),  
+Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud, 2018
+
 ## 2019
 
 * [Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks](https://arxiv.org/abs/1905.12917) - [reviews](https://openreview.net/forum?id=rkeZIJBYvr), 
@@ -73,6 +76,9 @@ Ilyes Khemakhem, Diederik P. Kingma, Ricardo Pio Monti, Aapo Hyvärinen, 2019
 * [Robust contrastive learning and nonlinear ICA in the presence of outlier](https://arxiv.org/abs/1911.00265),  
 Hiroaki Sasaki, Takashi Takenouchi, Ricardo Monti, Aapo Hyvärinen, 2019
 
+* [Autoregressive Energy Machines](https://arxiv.org/abs/1904.05626),   
+Charlie Nash, Conor Durkan, 2019
+
 ## 2020
 
 * [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539v1),  
@@ -107,6 +113,10 @@ Karen Ullrich, Fabio Viola, Danilo Jimenez Rezende, 2020
 * [ICE-BeeM: Identifiable Conditional Energy-Based Deep Models](https://arxiv.org/abs/2002.11537),  
 Ilyes Khemakhem, Ricardo Pio Monti, Diederik P. Kingma, Aapo Hyvärinen, 2020
 
+* [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060),  
+Tong Che, Ruixiang Zhang, Jascha Sohl-Dickstein, Hugo Larochelle, Liam Paull, Yuan Cao, Yoshua Bengio, 2020
+
+
 --------
 
 * [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
@@ -138,5 +148,9 @@ Alex K. Susemihl, Ron Meir, Manfred Opper, 2014
 
 * [Equilibrium Propagation: Bridging the Gap Between Energy-Based Models and Backpropagation](https://arxiv.org/abs/1602.05179),  
 Benjamin Scellier, Yoshua Bengio, 2016
+
+* [Learning data driven discretizations for partial differential equations](https://arxiv.org/abs/1808.04930),  
+Yohai Bar-Sinai, Stephan Hoyer, Jason Hickey, Michael P. Brenner, 2018
+
 
 
