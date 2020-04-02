@@ -14,6 +14,12 @@ Niklas Pfister, Peter Bühlmann, Jonas Peters, 2017
 * [Model Criticism in Latent Space](https://arxiv.org/abs/1711.04674),  
 Sohan Seth, Iain Murray, Christopher K. I. Williams, 2017
 
+* [Variational Inference using Implicit Distributions](https://arxiv.org/abs/1702.08235),  
+Ferenc Huszár, 2017
+
+* [The Devil is in the Tails: Fine-grained Classification in the Wild](https://arxiv.org/abs/1709.01450),  
+Grant Van Horn, Pietro Perona, 2017
+
 ## 2018
 
 * [Meta-Learning Probabilistic Inference For Prediction](https://arxiv.org/abs/1805.09921),  
@@ -30,6 +36,9 @@ Benjamin Rhodes, Michael Gutmann, 2018
 
 * [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) - [reviews](https://openreview.net/forum?id=rJxgknCcK7),  
 Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duvenaud, 2018
+
+* [Distribution Matching in Variational Inference](https://arxiv.org/abs/1802.06847),  
+Mihaela Rosca, Balaji Lakshminarayanan, Shakir Mohamed, 2018
 
 ## 2019
 
