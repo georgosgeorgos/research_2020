@@ -48,6 +48,8 @@ Mihaela Rosca, Balaji Lakshminarayanan, Shakir Mohamed, 2018
 * [Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency](https://www.semanticscholar.org/paper/Noise-Contrastive-Estimation-and-Negative-Sampling-Ma-Collins/ac61568c081c03730c58bd34c023a6952803da13),  
 Zhuang Ma, Michael Collins, 2018
 
+* [Unsupervised Meta-Learning For Few-Shot Image Classification](https://arxiv.org/abs/1811.11819),  
+Siavash Khodadadeh, Ladislau Bölöni, Mubarak Shah, 2018
 
 ## 2019
 
@@ -143,6 +145,8 @@ Tong Che, Ruixiang Zhang, Jascha Sohl-Dickstein, Hugo Larochelle, Liam Paull, Yu
 * [Reservoir memory machines](https://arxiv.org/abs/2003.04793),  
 Benjamin Paassen, Alexander Schulz, 2020
 
+* [Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913),  
+Johann Brehmer, Kyle Cranmer, 2020
 
 --------
 
