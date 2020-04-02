@@ -6,6 +6,9 @@
 * [One-Shot Generalization in Deep Generative Models](https://arxiv.org/abs/1603.05106),  
 Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, Daan Wierstra, 2016
 
+* [Composing graphical models with neural networks for structured representations and fast inference](https://arxiv.org/abs/1603.06277),  
+Matthew J. Johnson, David Duvenaud, Alexander B. Wiltschko, Sandeep R. Datta, Ryan P. Adams, 2016
+
 ## 2017
 
 * [Invariant Causal Prediction for Sequential Data](https://arxiv.org/abs/1706.08058),  
@@ -39,6 +42,12 @@ Will Grathwohl, Ricky T. Q. Chen, Jesse Bettencourt, Ilya Sutskever, David Duven
 
 * [Distribution Matching in Variational Inference](https://arxiv.org/abs/1802.06847),  
 Mihaela Rosca, Balaji Lakshminarayanan, Shakir Mohamed, 2018
+
+* [Analysis of Noise Contrastive Estimation from the Perspective of Asymptotic Variance](https://arxiv.org/abs/1808.07983), Masatoshi Uehara, Takeru Matsuda, Fumiyasu Komaki, 2018 
+
+* [Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency](https://www.semanticscholar.org/paper/Noise-Contrastive-Estimation-and-Negative-Sampling-Ma-Collins/ac61568c081c03730c58bd34c023a6952803da13),  
+Zhuang Ma, Michael Collins, 2018
+
 
 ## 2019
 
@@ -91,6 +100,9 @@ Hiroaki Sasaki, Takashi Takenouchi, Ricardo Monti, Aapo Hyvärinen, 2019
 * [Autoregressive Energy Machines](https://arxiv.org/abs/1904.05626),   
 Charlie Nash, Conor Durkan, 2019
 
+* [Meta-Learning with Differentiable Convex Optimization](https://arxiv.org/abs/1904.03758),  
+Kwonjoon Lee, Subhransu Maji, Avinash Ravichandran, Stefano Soatto, 2019
+
 ## 2020
 
 * [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539v1),  
@@ -127,6 +139,9 @@ Ilyes Khemakhem, Ricardo Pio Monti, Diederik P. Kingma, Aapo Hyvärinen, 2020
 
 * [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060),  
 Tong Che, Ruixiang Zhang, Jascha Sohl-Dickstein, Hugo Larochelle, Liam Paull, Yuan Cao, Yoshua Bengio, 2020
+
+* [Reservoir memory machines](https://arxiv.org/abs/2003.04793),  
+Benjamin Paassen, Alexander Schulz, 2020
 
 
 --------
