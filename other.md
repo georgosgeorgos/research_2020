@@ -23,6 +23,10 @@
 * [Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemology, and Applications](https://arxiv.org/abs/2001.10488),  
 Nassim Nicholas Taleb, 2020
 
+# papers
+
+* [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
+
 # slides
 
 * [Machine Learning and Cognitive
