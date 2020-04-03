@@ -22,6 +22,8 @@
 
 * [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 
+* [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
+
 # books
 
 * [Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemology, and Applications](https://arxiv.org/abs/2001.10488),  
