@@ -2,6 +2,8 @@
 
 * [distracted-world](https://hbr.org/2017/10/in-a-distracted-world-solitude-is-a-competitive-advantage?utm_medium=social&utm_source=linkedin&utm_campaign=hbr)
 
+* [How much innate knowledge can the genome encode?](http://www.wiringthebrain.com/2020/01/how-much-innate-knowledge-can-genome.html)
+
 # blogs
 
 * [Information-Theoretic Probing with MDL](https://lena-voita.github.io/posts/mdl_probes.html)
@@ -11,6 +13,8 @@
 * [Inference](https://www.inference.vc/)
 
 * [Hyperbolic DL](http://hyperbolicdeeplearning.com/)
+
+* [Wiring the Brain](http://www.wiringthebrain.com/)
 
 # courses
 
