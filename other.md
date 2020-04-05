@@ -18,6 +18,8 @@
 
 * [Invariance](https://danilorezende.com/)
 
+* [Constrained MDPs and the reward hypothesis](https://readingsml.blogspot.com/)
+
 # courses
 
 * [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
