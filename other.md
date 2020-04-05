@@ -16,6 +16,8 @@
 
 * [Wiring the Brain](http://www.wiringthebrain.com/)
 
+* [Invariance](https://danilorezende.com/)
+
 # courses
 
 * [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
