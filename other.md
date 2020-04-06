@@ -37,6 +37,10 @@ Nassim Nicholas Taleb, 2020
 
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
 
+# notes
+
+* [Notes on Contemporary Machine Learning for Physicists](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf)
+
 # presentations
 
 * [Machine Learning and Cognitive
