@@ -37,8 +37,14 @@ Nassim Nicholas Taleb, 2020
 
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
 
-# slides
+# presentations
 
 * [Machine Learning and Cognitive
 Science](http://mlg.eng.cam.ac.uk/mlss09/mlss_slides/mlss09-tenenbaum-lecture1.pdf)
+
+* [Manifold Learning and Spectral Methods](http://davidpfau.com/assets/mlss_2018_pfau.pdf)
+
+* [Non-supervised Learning & Decision Making](https://danilorezende.com/wp-content/uploads/2019/08/unsupervised_learning_decision_making.pdf)
+
+* [A Case Against Generative Models in RL?](https://shakirm.com/portfolio/a-case-against-generative-models-in-rl/)
 
