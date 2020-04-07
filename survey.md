@@ -17,3 +17,6 @@ George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Bal
 
 * [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755),  
 Maithra Raghu, Eric Schmidt, 2020
+
+* [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652),  
+Shakir Mohamed, Mihaela Rosca, Michael Figurnov, Andriy Mnih, 2019
