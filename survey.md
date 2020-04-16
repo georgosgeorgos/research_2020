@@ -20,3 +20,7 @@ Maithra Raghu, Eric Schmidt, 2020
 
 * [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652),  
 Shakir Mohamed, Mihaela Rosca, Michael Figurnov, Andriy Mnih, 2019
+
+* [Meta-Learning in Neural Networks: A Survey](https://arxiv.org/abs/2004.05439),  
+Timothy Hospedales, Antreas Antoniou, Paul Micaelli, Amos Storkey
+
