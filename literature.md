@@ -148,6 +148,9 @@ Benjamin Paassen, Alexander Schulz, 2020
 * [Flows for simultaneous manifold learning and density estimation](https://arxiv.org/abs/2003.13913),  
 Johann Brehmer, Kyle Cranmer, 2020
 
+* [TraDE: Transformers for Density Estimation ](https://arxiv.org/abs/2004.02441),  
+Rasool Fakoor, Pratik Chaudhari, Jonas Mueller, Alexander J. Smola, 2020
+
 --------
 
 * [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
