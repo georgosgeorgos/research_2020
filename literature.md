@@ -105,6 +105,9 @@ Charlie Nash, Conor Durkan, 2019
 * [Meta-Learning with Differentiable Convex Optimization](https://arxiv.org/abs/1904.03758),  
 Kwonjoon Lee, Subhransu Maji, Avinash Ravichandran, Stefano Soatto, 2019
 
+* [Neural Empirical Bayes](https://arxiv.org/abs/1903.02334),  
+Saeed Saremi, Aapo Hyvarinen, 2019
+
 ## 2020
 
 * [Rethinking Few-Shot Image Classification: a Good Embedding Is All You Need?](https://arxiv.org/abs/2003.11539v1),  
