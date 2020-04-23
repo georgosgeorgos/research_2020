@@ -9,6 +9,9 @@ Shakir Mohamed, Balaji Lakshminarayanan, 2016
 * [Only Bayes should learn a manifold (on the estimation of differential geometric structure from data)](https://arxiv.org/abs/1806.04994),  
 Søren Hauberg, 2018
 
+* [Relational inductive biases, deep learning, and graph networks](https://arxiv.org/abs/1806.01261),  
+Peter W. Battaglia and al., 2018
+
 * [Causality for Machine Learning](https://arxiv.org/abs/1911.10500),  
 Bernhard Schölkopf, 2019
 
