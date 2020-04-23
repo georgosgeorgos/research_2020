@@ -22,6 +22,8 @@
 
 * [Towards understanding glasses with graph neural networks](https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks)
 
+* [Measure-Valued Gradient Estimator and Application to Variational Autoencoder](https://bochang.me/blog/posts/measure-val-grad/)
+
 # courses
 
 * [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
@@ -40,13 +42,20 @@ Nassim Nicholas Taleb, 2020
 * [Introduction to smooth manifolds](https://link.springer.com/book/10.1007/978-1-4419-9982-5),  
 John M. Lee
 
+* [Lie Algebras in Particle Physics](https://www.goodreads.com/book/show/1002450.Lie_Algebras_In_Particle_Physics),  
+Howard Georgi
+
 # papers
 
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
 
 # notes
 
-* [Notes on Contemporary Machine Learning for Physicists](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf)
+* [Notes on Contemporary Machine Learning for Physicists](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf),  
+Jared Kaplan
+
+* [QFT Lectures Notes](file:///home/georgos/Desktop/QFTNotes.pdf),  
+Jared Kaplan
 
 # presentations
 
@@ -59,3 +68,4 @@ Science](http://mlg.eng.cam.ac.uk/mlss09/mlss_slides/mlss09-tenenbaum-lecture1.p
 
 * [A Case Against Generative Models in RL?](https://shakirm.com/portfolio/a-case-against-generative-models-in-rl/)
 
+* [School Geometric Processing Summer School Presentations](http://school.geometryprocessing.org/)
