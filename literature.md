@@ -1,5 +1,9 @@
 # papers
 
+## 2014
+
+* [Learning the Irreducible Representations of Commutative Lie Groups](https://arxiv.org/abs/1402.4437),  
+Taco Cohen, Max Welling, 2014
 
 ## 2016
 
