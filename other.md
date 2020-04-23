@@ -20,6 +20,8 @@
 
 * [Constrained MDPs and the reward hypothesis](https://readingsml.blogspot.com/)
 
+* [Towards understanding glasses with graph neural networks](https://deepmind.com/blog/article/Towards-understanding-glasses-with-graph-neural-networks)
+
 # courses
 
 * [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
