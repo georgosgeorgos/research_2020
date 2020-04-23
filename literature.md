@@ -51,6 +51,9 @@ Zhuang Ma, Michael Collins, 2018
 * [Unsupervised Meta-Learning For Few-Shot Image Classification](https://arxiv.org/abs/1811.11819),  
 Siavash Khodadadeh, Ladislau Bölöni, Mubarak Shah, 2018
 
+* [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676),  
+Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel, 2018
+
 ## 2019
 
 * [Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks](https://arxiv.org/abs/1905.12917) - [reviews](https://openreview.net/forum?id=rkeZIJBYvr), 
@@ -107,6 +110,12 @@ Kwonjoon Lee, Subhransu Maji, Avinash Ravichandran, Stefano Soatto, 2019
 
 * [Neural Empirical Bayes](https://arxiv.org/abs/1903.02334),  
 Saeed Saremi, Aapo Hyvarinen, 2019
+
+* [Infinite Mixture Prototypes for Few-Shot Learning](https://arxiv.org/abs/1902.04552),  
+Kelsey R. Allen, Evan Shelhamer, Hanul Shin, Joshua B. Tenenbaum, 2019
+
+* [Domain Agnostic Learning with Disentangled Representations](https://arxiv.org/abs/1904.12347),  
+Xingchao Peng, Zijun Huang, Ximeng Sun, Kate Saenko, 2019
 
 ## 2020
 
