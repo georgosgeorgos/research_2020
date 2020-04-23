@@ -28,6 +28,8 @@
 
 * [Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp20/home)
 
+* [Nonlinear Dynamics: Mathematical and Computational Approaches](https://www.complexityexplorer.org/courses/100-nonlinear-dynamics-mathematical-and-computational-approaches/segments/9032)
+
 # books
 
 * [Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemology, and Applications](https://arxiv.org/abs/2001.10488),  
