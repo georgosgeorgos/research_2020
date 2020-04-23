@@ -24,6 +24,9 @@ George Papamakarios, Eric Nalisnick, Danilo Jimenez Rezende, Shakir Mohamed, Bal
 * [Monte Carlo Gradient Estimation in Machine Learning](https://arxiv.org/abs/1906.10652),  
 Shakir Mohamed, Mihaela Rosca, Michael Figurnov, Andriy Mnih, 2019
 
+* [Attention in Psychology, Neuroscience, and Machine Learning](https://www.frontiersin.org/articles/10.3389/fncom.2020.00029/full),  
+Grace W. Lindsay, 2019
+
 * [A Survey of Deep Learning for Scientific Discovery](https://arxiv.org/abs/2003.11755),  
 Maithra Raghu, Eric Schmidt, 2020
 
