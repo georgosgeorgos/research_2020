@@ -80,3 +80,6 @@ Science](http://mlg.eng.cam.ac.uk/mlss09/mlss_slides/mlss09-tenenbaum-lecture1.p
 * [School Geometric Processing Summer School Presentations](http://school.geometryprocessing.org/)
 
 * [Learning Representations using Causal Invariance](https://leon.bottou.org/slides/invariances/invariances.pdf)
+
+* [The Tradeoffs of Large-scale Learning](https://leon.bottou.org/talks/largescale),  
+
