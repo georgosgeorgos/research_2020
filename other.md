@@ -59,8 +59,12 @@ Howard Georgi
 * [Notes on Contemporary Machine Learning for Physicists](https://sites.krieger.jhu.edu/jared-kaplan/files/2019/04/ContemporaryMLforPhysicists.pdf),  
 Jared Kaplan
 
-* [QFT Lectures Notes](file:///home/georgos/Desktop/QFTNotes.pdf),  
+* [QFT Lectures Notes](https://sites.krieger.jhu.edu/jared-kaplan/files/2016/05/QFTNotes.pdf),  
 Jared Kaplan
+
+* [Statistical Mechanics & Thermodynamics](https://sites.krieger.jhu.edu/jared-kaplan/files/2018/11/StatisticalMechanicsNotes.pdf),  
+Jared Kaplan
+
 
 # presentations
 
@@ -74,3 +78,5 @@ Science](http://mlg.eng.cam.ac.uk/mlss09/mlss_slides/mlss09-tenenbaum-lecture1.p
 * [A Case Against Generative Models in RL?](https://shakirm.com/portfolio/a-case-against-generative-models-in-rl/)
 
 * [School Geometric Processing Summer School Presentations](http://school.geometryprocessing.org/)
+
+* [Learning Representations using Causal Invariance](https://leon.bottou.org/slides/invariances/invariances.pdf)
