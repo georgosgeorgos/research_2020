@@ -24,6 +24,11 @@
 
 * [Measure-Valued Gradient Estimator and Application to Variational Autoencoder](https://bochang.me/blog/posts/measure-val-grad/)
 
+* [Evolutionary Optimization as a Variational Method](https://davidbarber.github.io/blog/2017/04/03/variational-optimisation/)
+
+* [Meta-Learning: Learning to Learn Fast](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+
+
 # courses
 
 * [Bayesian Data Analysis](https://github.com/avehtari/BDA_course_Aalto)
