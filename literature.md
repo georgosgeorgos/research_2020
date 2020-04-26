@@ -58,6 +58,9 @@ Siavash Khodadadeh, Ladislau Bölöni, Mubarak Shah, 2018
 * [Meta-Learning for Semi-Supervised Few-Shot Classification](https://arxiv.org/abs/1803.00676),  
 Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel, 2018
 
+* [Probabilistic Model-Agnostic Meta-Learning](https://arxiv.org/abs/1806.02817),  
+Chelsea Finn, Kelvin Xu, Sergey Levine, 2018
+
 ## 2019
 
 * [Learning to Balance: Bayesian Meta-Learning for Imbalanced and Out-of-distribution Tasks](https://arxiv.org/abs/1905.12917) - [reviews](https://openreview.net/forum?id=rkeZIJBYvr), 
