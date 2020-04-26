@@ -170,6 +170,9 @@ Johann Brehmer, Kyle Cranmer, 2020
 * [TraDE: Transformers for Density Estimation ](https://arxiv.org/abs/2004.02441),  
 Rasool Fakoor, Pratik Chaudhari, Jonas Mueller, Alexander J. Smola, 2020
 
+* [Adversarial Latent Autoencoders](https://arxiv.org/abs/2004.04467),  
+Stanislav Pidhorskyi, Donald Adjeroh, Gianfranco Doretto
+
 --------
 
 * [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
