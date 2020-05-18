@@ -173,6 +173,9 @@ Rasool Fakoor, Pratik Chaudhari, Jonas Mueller, Alexander J. Smola, 2020
 * [Adversarial Latent Autoencoders](https://arxiv.org/abs/2004.04467),  
 Stanislav Pidhorskyi, Donald Adjeroh, Gianfranco Doretto
 
+* [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/abs/2005.04966),  
+Junnan Li, Pan Zhou, Caiming Xiong, Richard Socher, Steven C.H. Hoi
+
 --------
 
 * [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
