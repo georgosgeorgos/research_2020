@@ -50,6 +50,9 @@ John M. Lee
 * [Lie Algebras in Particle Physics](https://www.goodreads.com/book/show/1002450.Lie_Algebras_In_Particle_Physics),  
 Howard Georgi
 
+* [Probability Theory: The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf),  
+E. T. Jaynes
+
 # papers
 
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
