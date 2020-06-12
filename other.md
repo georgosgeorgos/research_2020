@@ -53,6 +53,12 @@ Howard Georgi
 * [Probability Theory: The Logic of Science](https://bayes.wustl.edu/etj/prob/book.pdf),  
 E. T. Jaynes
 
+* [Elements of Causal Inference](https://mitpress.mit.edu/books/elements-causal-inference#:~:text=Elements%20of%20Causal%20Inference%20is,data%20to%20understand%20the%20world.),  
+Jonas Peters, Dominik Janzing and Bernhard Schölkopf
+
+* [Causal Inference in Statistics: A Primer](https://www.goodreads.com/book/show/27164550-causal-inference-in-statistics),  
+Judea Pearl
+
 # papers
 
 * [How to do Research At the MIT AI Lab](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf?sequence=4&isAllowed=y)
