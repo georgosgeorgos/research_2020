@@ -176,6 +176,13 @@ Stanislav Pidhorskyi, Donald Adjeroh, Gianfranco Doretto
 * [Prototypical Contrastive Learning of Unsupervised Representations](https://arxiv.org/abs/2005.04966),  
 Junnan Li, Pan Zhou, Caiming Xiong, Richard Socher, Steven C.H. Hoi
 
+* [Self-Supervised Relational Reasoning for Representation Learning])(https://arxiv.org/abs/2006.05849),  
+Massimiliano Patacchiola, Amos Storkey
+
+* [Designing Data Augmentation for Simulating Interventions](https://arxiv.org/abs/2005.01856),  
+Maximilian Ilse, Jakub M. Tomczak, Patrick Forré
+
+
 --------
 
 * [Phase transitions in simple learning](https://www.semanticscholar.org/paper/Phase-transitions-in-simple-learning-Hertz-Krogh/c35ca0b5123d558d5485114aa01e77772ce1dc33),  
