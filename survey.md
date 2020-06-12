@@ -1,7 +1,10 @@
-# Relevant surveys
+# surveys and overviews
 
 * [A Unifying Review of Linear Gaussian Models](https://www.semanticscholar.org/paper/A-Unifying-Review-of-Linear-Gaussian-Models-Roweis-Ghahramani/30755a7614148f1acf5edca72385832410c7c33a),  
 Sam T. Roweis, Zoubin Ghahramani, 1999
+
+* [Causal inference in statistics: An overview](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf),  
+Judea Pearl
 
 * [Learning in Implicit Generative Models](https://arxiv.org/abs/1610.03483),  
 Shakir Mohamed, Balaji Lakshminarayanan, 2016
