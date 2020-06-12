@@ -4,7 +4,7 @@
 Sam T. Roweis, Zoubin Ghahramani, 1999
 
 * [Causal inference in statistics: An overview](https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf),  
-Judea Pearl
+Judea Pearl, 2009
 
 * [Learning in Implicit Generative Models](https://arxiv.org/abs/1610.03483),  
 Shakir Mohamed, Balaji Lakshminarayanan, 2016
